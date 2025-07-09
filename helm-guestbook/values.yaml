@@ -24,8 +24,8 @@ ingress:
   path: /
   hosts:
     - chart-example.local
-    - test.argo.deploy
-  tls: []
+
+    tls: []
   #  - secretName: chart-example-tls
   #    hosts:
   #      - chart-example.local
